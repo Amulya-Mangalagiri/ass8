@@ -1,0 +1,8 @@
+D:\day-5\ASS8\ASS8\bin\Debug\ASS8.exe.config
+D:\day-5\ASS8\ASS8\bin\Debug\ASS8.exe
+D:\day-5\ASS8\ASS8\bin\Debug\ASS8.pdb
+D:\day-5\ASS8\ASS8\obj\Debug\ASS8.csproj.AssemblyReference.cache
+D:\day-5\ASS8\ASS8\obj\Debug\ASS8.csproj.SuggestedBindingRedirects.cache
+D:\day-5\ASS8\ASS8\obj\Debug\ASS8.csproj.CoreCompileInputs.cache
+D:\day-5\ASS8\ASS8\obj\Debug\ASS8.exe
+D:\day-5\ASS8\ASS8\obj\Debug\ASS8.pdb
